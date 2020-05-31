@@ -6,4 +6,4 @@ North East West South,
 i have found four pokèmon with the same Initials as these directions.
 
 - Natu [ click for information about Natu ](Natu.md)
-- Eevee [ Click for info on eevee ] ( Eevee.md )
+- Eevee [ Click for info on eevee ]( Eevee.md )
