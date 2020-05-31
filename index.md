@@ -1,5 +1,5 @@
 # POKÈMON DIRCTIONS!
-## something for people that are bad woth directions,
+## something for people that are bad with directions,
 
 there are four ( actually 8 but im only focusing on four ) dircetions, 
 North East West South,
